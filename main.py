@@ -107,7 +107,7 @@ def diabetes_pred(input_parameters : model_input):
     health,	
     absences,	
     G1,
-    G2,]
+    G2]
     
     G3= Sperformance_model.predict([input_list])
     
